@@ -1,0 +1,449 @@
+{
+    "rows": [
+        [
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "text": "esc",
+                        "justifyContent": "center",
+                        "alignItems": "center"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F1"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F2"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F3"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F4"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F5"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F6"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F7"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F8"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F9"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F10"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F11"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "F12"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u1x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "druck"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "°"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "^"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "ろ"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "!"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": ""
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "1"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "ぬ"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "\""
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "²"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "2"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "ふ"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "§"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "³"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "3"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "あ"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "$"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": ""
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "4"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "う"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "%"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "½"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "5"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "え"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "&"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "¬"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "6"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "お"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "/"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "{"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "7"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "や"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "("
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "["
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "8"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "ゆ"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": ")"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "]"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "9"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "よ"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "="
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "}"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "0"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "わ"
+                    }
+                ]
+            },
+            {
+                "type": "Keycap1u4x",
+                "areas": [
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "?"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "\\"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "ß"
+                    },
+                    {
+                        "justifyContent": "center",
+                        "alignItems": "center",
+                        "text": "ほ"
+                    }
+                ]
+            }
+        ]
+    ],
+    "fontFamily": "Rubik",
+    "fontVariant": "300"
+}
